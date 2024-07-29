@@ -1,16 +1,5 @@
 # Snowflake for Data Science
 
-[![Test Dependencies](https://github.com/cromano8/Snowflake_ML_Intro/actions/workflows/notebooks.yml/badge.svg)](https://github.com/cromano8/Snowflake_ML_Intro/actions/workflows/notebooks.yml)
-
-### Getting Started
-
-- 🎥 **Intro Video Walkthrough:** [Snowflake for ML Intro](https://github.com/cromano8/Snowflake_ML_Intro/assets/59093254/c249ce4c-2494-49ba-8142-6aec21cc4b08)
-- 🎥 **End-to-End ML Ops in Snowflake:** [Live: End-to-End ML Ops in Snowflake](https://www.youtube.com/watch?v=prA014tFRwY)
-- 🔗 **Regular 30-Day Trial:** [Sign Up](https://signup.snowflake.com/)
-- 🔗 **Student/Educator 120-Day Trial:** [Sign Up (Student)](https://signup.snowflake.com/?trial=student)
-
-Although we recorded videos, we are constantly making upgrades and additions to this repo, so the videos may differ slightly from what is in the repo.  Overall they are the same but we will continue to upload more videos on any additions to the repo.
-
 ## Configuration Setup
 
 1. Create a `.env` file and populate it with your account details:
